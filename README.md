@@ -6,6 +6,7 @@
 <div id="header" align="center">
   <img src="https://img.shields.io/badge/LinkedIn-blue?logo=linkedin&logoColor=white&style=for-the-badge" width="100"/>
 </div>
+
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=Sergtl78)](https://git.io/streak-stats)
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&layout=compact)
