@@ -6,7 +6,7 @@
 <div id="header" align="center">
   <img src="https://img.shields.io/badge/LinkedIn-blue?logo=linkedin&logoColor=white&style=for-the-badge" width="100"/>
 </div>
-
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=Sergtl78)](https://git.io/streak-stats)
 <!--
 **Sergtl78/Sergtl78** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
