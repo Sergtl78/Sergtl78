@@ -1,7 +1,7 @@
 ### Hi there 👋
 
 <div id="header" align="start">
-  <img src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="100"/>
+  <img src="[https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif](https://media3.giphy.com/media/7FgozREBtahrxYNsYN/giphy.gif?cid=ecf05e47k1bzyh1b84r2fao27q5bd87mjo1sd3bztpruuwm3&ep=v1_stickers_search&rid=giphy.gif&ct=s)" width="100"/>
 </div>
 
 ---
@@ -16,7 +16,10 @@
   <img src="https://github.com/devicons/devicon/blob/master/icons/nextjs/nextjs-original.svg" title="Next" alt="Next" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/redux/redux-original.svg" title="Redux" alt="Redux " width="40" height="40"/>&nbsp;
 </div>
+
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=Sergtl78&theme=dark&hide_border=&locale=ru&mode=weekly)](https://git.io/streak-stats)
 <!--
+
 
 
 **Sergtl78/Sergtl78** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
