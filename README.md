@@ -1,8 +1,7 @@
 ### Hi there 👋
 
-<div id="header" align="start">
+<div id="header" align="start" >
   <img src="https://media3.giphy.com/media/7FgozREBtahrxYNsYN/giphy.gif?cid=ecf05e47k1bzyh1b84r2fao27q5bd87mjo1sd3bztpruuwm3&ep=v1_stickers_search&rid=giphy.gif&ct=s" width="100"/>
-
   ### :hammer_and_wrench: Languages and Tools :
 <div>
   <img src="https://github.com/devicons/devicon/blob/master/icons/html5/html5-original.svg" title="HTML5" alt="HTML" width="40" height="40"/>&nbsp;
