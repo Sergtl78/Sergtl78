@@ -16,7 +16,9 @@
   <img src="https://github.com/devicons/devicon/blob/master/icons/nextjs/nextjs-original.svg" title="Next" alt="Next" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/redux/redux-original.svg" title="Redux" alt="Redux " width="40" height="40"/>&nbsp;
 </div>
-
+---
+<img src="https://komarev.com/ghpvc/?username=your-github-username&style=flat-square&color=blue" alt=""/>
+---
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=Sergtl78&theme=dark&hide_border=&locale=ru&mode=weekly)](https://git.io/streak-stats)
 <!--
 
