@@ -23,7 +23,7 @@
 
 ---
 
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=Sergtl78&theme=dark&hide_border=&locale=ru&mode=weekly)](https://git.io/streak-stats)
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=Sergtl78&theme=tokyonight&locale=ru)](https://git.io/streak-stats)
 <!--
 
 
