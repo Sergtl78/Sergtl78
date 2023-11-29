@@ -8,9 +8,8 @@ Web developer from Russia 🇷🇺
 -------------------------
 
 * 🌍  I'm based in Russia, Nizhny Novgorod
-* ✉️  You can contact me at [sergtl78@gmail.com](mailto:sergtl78@gmail.com)
 
-### Socials
+### Contact me:
 
 <p align="left">
 <a href="mailto:sergtl78@gmail.com">
