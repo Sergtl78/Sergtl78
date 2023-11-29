@@ -46,7 +46,7 @@ Web developer from Russia 🇷🇺
 
 ### Libraries and framework:
 
-<span  align="left">
+<div  align="left">
   <a href="https://tailwindcss.com/" target="_blank" rel="noreferrer">
     <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/tailwindcss-colored.svg" width="36" height="36" alt="TailwindCSS" />
   </a>
@@ -62,9 +62,9 @@ Web developer from Russia 🇷🇺
   <a href="https://github.com/pmndrs/zustand" target="_blank" rel="noreferrer">
     <img src="zustand 2.svg" width="36" height="36" alt="Zustand" />
   </a>
-</span>
+</div>
 
-<span  align="left">
+<div  align="left">
   <a href="https://nodejs.org/en/" target="_blank" rel="noreferrer">
     <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/nodejs-colored.svg" width="36" height="36" alt="NodeJS" />
   </a>
@@ -74,9 +74,9 @@ Web developer from Russia 🇷🇺
   <a href="https://docs.nestjs.com/" target="_blank" rel="noreferrer">
     <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/nestjs-colored.svg" width="36" height="36" alt="NestJS" />
   </a>
-</span>
+</div>
 
-<span  align="left">
+<div  align="left">
   <a href="https://graphql.org/" target="_blank" rel="noreferrer">
     <img src="./rest-api_svgrepo.com.svg" width="30" height="30" alt="REST API" />
   </a>
@@ -87,7 +87,7 @@ Web developer from Russia 🇷🇺
     <img src="logo.svg" width="36" height="36" alt="tRPC" />
   </a>
   
-</span>
+</div>
 
 ### Tools:
 
